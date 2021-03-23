@@ -1,10 +1,14 @@
 # Particle Swarm Optimization
 
-Following the below existing documentation ...
+This repository contains codes adapted from existing documentation.
 
-### C# (Microsoft)
+### C#
 
-- Particles and PSO algorithm: object-oriented programming and implementation - https://docs.microsoft.com/en-us/archive/msdn-magazine/2011/august/artificial-intelligence-particle-swarm-optimization
+To create a console application, run the command `dotnet new console`.
+
+To run the console application, go to the directory containing `Program.cs` file and run the command `dotnet run`.
+
+- Particles and one-iteration PSO algorithm - https://docs.microsoft.com/en-us/archive/msdn-magazine/2011/august/artificial-intelligence-particle-swarm-optimization
 
 - Test run multi-swarm optimization - https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/september/test-run-multi-swarm-optimization
 
